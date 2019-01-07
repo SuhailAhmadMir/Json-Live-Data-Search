@@ -1,0 +1,43 @@
+[
+	{
+		"name":"Suhail Mir",
+		"location":"Srinagar, Jammu and Kashmir",
+		"image":"./suhail.jpg"
+	},
+	{
+		"name":"Owais Mir",
+		"image":"./person.jpg",
+		"location":"Srinagar, Jammu and Kashmir"
+	},
+	{
+		"name":"Shahzaib Bhat",
+		"image":"./person.jpg",
+		"location":"Illahi bagh, Jammu and Kashmir"
+	},
+	{
+		"name":"Muhammad Shuraim",
+		"image":"./person.jpg",
+		"location":"Nowshera Srinagar, Jammu and Kashmir"
+	},
+	{
+		"name":"Zayan Mir",
+		"image":"./person.jpg",
+		"location":"Kagazgari Mohalla Srinagar, Jammu and Kashmir"
+	},
+	{
+		"name":"Mohsin Mir",
+		"image":"./person.jpg",
+		"location":"Srinagar, Jammu and Kashmir"
+	},
+	{
+		"name":"Hanoof Shah",
+		"image":"./person.jpg",
+		"location":"Lalbazar Srinagar, Jammu and Kashmir"
+	},
+	{
+		"name":"Suhaib Shah",
+		"image":"./person.jpg",
+		"location":"Lalbazar, Jammu and Kashmir"
+	}
+
+]
